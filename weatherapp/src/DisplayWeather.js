@@ -1,6 +1,8 @@
 const DisplayWeather = (props)=>{
 
-    return null
+    return (
+        null
+    )
 }
 
 export default DisplayWeather
